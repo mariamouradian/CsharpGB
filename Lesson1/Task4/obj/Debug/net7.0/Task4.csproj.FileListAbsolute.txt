@@ -1,0 +1,14 @@
+C:\Users\MLMuradyan\Desktop\GB Education\C#\Lesson 1\Task4\bin\Debug\net7.0\Task4.exe
+C:\Users\MLMuradyan\Desktop\GB Education\C#\Lesson 1\Task4\bin\Debug\net7.0\Task4.deps.json
+C:\Users\MLMuradyan\Desktop\GB Education\C#\Lesson 1\Task4\bin\Debug\net7.0\Task4.runtimeconfig.json
+C:\Users\MLMuradyan\Desktop\GB Education\C#\Lesson 1\Task4\bin\Debug\net7.0\Task4.dll
+C:\Users\MLMuradyan\Desktop\GB Education\C#\Lesson 1\Task4\bin\Debug\net7.0\Task4.pdb
+C:\Users\MLMuradyan\Desktop\GB Education\C#\Lesson 1\Task4\obj\Debug\net7.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MLMuradyan\Desktop\GB Education\C#\Lesson 1\Task4\obj\Debug\net7.0\Task4.AssemblyInfoInputs.cache
+C:\Users\MLMuradyan\Desktop\GB Education\C#\Lesson 1\Task4\obj\Debug\net7.0\Task4.AssemblyInfo.cs
+C:\Users\MLMuradyan\Desktop\GB Education\C#\Lesson 1\Task4\obj\Debug\net7.0\Task4.csproj.CoreCompileInputs.cache
+C:\Users\MLMuradyan\Desktop\GB Education\C#\Lesson 1\Task4\obj\Debug\net7.0\Task4.dll
+C:\Users\MLMuradyan\Desktop\GB Education\C#\Lesson 1\Task4\obj\Debug\net7.0\refint\Task4.dll
+C:\Users\MLMuradyan\Desktop\GB Education\C#\Lesson 1\Task4\obj\Debug\net7.0\Task4.pdb
+C:\Users\MLMuradyan\Desktop\GB Education\C#\Lesson 1\Task4\obj\Debug\net7.0\Task4.genruntimeconfig.cache
+C:\Users\MLMuradyan\Desktop\GB Education\C#\Lesson 1\Task4\obj\Debug\net7.0\ref\Task4.dll
