@@ -17,3 +17,7 @@ if (num > 0)
         count = count + 1; //count++
     }
 }
+else
+{
+    Console.Write("Ошибка ввода!");
+}
