@@ -7,10 +7,13 @@
 Console.WriteLine("Введите целое положительное число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
-int count = -num; //num * -1
+if (num > 0)
+{
+    int count = -num; //num * -1
 
-while (count <= num)
+    while (count <= num)
     {
-    Console.Write(count + " ");
-    count = count + 1; //count++
+        Console.Write(count + " ");
+        count = count + 1; //count++
     }
+}
