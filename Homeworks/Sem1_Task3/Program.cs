@@ -7,10 +7,17 @@
 Console.WriteLine("Введите трехзначное число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
-int firstDigit = num / 100;
-int lastDigit = num % 10;
+if (num >= 100 && num <= 999)
+{
+    int firstDigit = num / 100;
+    int lastDigit = num % 10;
 
-int sum = firstDigit + lastDigit;
+    int sum = firstDigit + lastDigit;
 
-Console.WriteLine(sum);
+    Console.WriteLine($"Сумма первой и последней цифры трехзначного числа = {sum}");
 
+}
+else
+{
+    Console.WriteLine("Число вне диапазона!");
+}
