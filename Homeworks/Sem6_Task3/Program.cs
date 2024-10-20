@@ -6,7 +6,7 @@
 
 int CountVowels(string str)
 {
-    string vowels = "aeiouy";
+    string vowels = "aeiouyAEIOUY";
     int count = 0;
     for (int i = 0; i < str.Length; i++)
     {
