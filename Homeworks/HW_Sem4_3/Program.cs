@@ -27,7 +27,7 @@ void PrintArray(int[] array)
     Console.Write("]");
 }
 
-int RevertArray(int[] array)
+void RevertArray(int[] array)
 {
     for (int i = 0; i < array.Length / 2; i++)
     {
@@ -38,7 +38,7 @@ int RevertArray(int[] array)
     }
     foreach (int temp in array)
     {
-        Console.Write(temp + " ");
+       Console.Write(temp + " ");
     }
 }
 
@@ -47,8 +47,7 @@ int a = Convert.ToInt32(Console.ReadLine());
 
 int[] arr = CreateArrayRndInt(a, 100, 1000);
 PrintArray(arr);
-
-int result = RevertArray(arr);
-Console.WriteLine("Перевернутый массив: ");
-
-Console.WriteLine(result);
+Console.WriteLine(" ");
+Console.Write("Перевернутый массив: ");
+RevertArray(arr);
+Console.WriteLine(arr);

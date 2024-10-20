@@ -58,8 +58,6 @@ void FindMaxElemInRow(int[,] matrix)
 
 
 
-
-
 int[,] array2d = CreateMatrixRndInt(3, 4, 1, 15);
 PrintMatrix(array2d);
 
